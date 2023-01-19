@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         switch segmentedControl.selectedSegmentIndex {
         case 0:
             mainLabel.text = "Selected index is 0"
-            mainLabel.textColor = .red
+            mainLabel.textColor = .purple
         case 1:
             mainLabel.text = "Selected index is 1"
             mainLabel.textColor = .yellow
