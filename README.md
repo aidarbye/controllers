@@ -1,2 +1,2 @@
 # segmentedContriol1
-basic controls, (the second commit is missing ;( )
+basic controls, (the 7 commit is missing ;( )
